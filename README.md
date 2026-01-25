@@ -1,6 +1,15 @@
-Practice Day 1 Project
+# 🧪 Practice Day 1 – HTML/CSS
 
-Link: https://sahanagpdev.github.io/PracticeDay1/
+## ✨ Overview
+A basic practice project focusing on improving frontend fundamentals and layout skills.
 
-Description:
-A small practice project to improve HTML/CSS skills, focusing on layout and component styling.
+##  Features
+- Practice layout  
+- Clean formatting  
+- Beginner friendly
+
+## 🛠 Tech Stack
+HTML • CSS
+
+## 🔗 Live Demo
+https://sahanagpdev.github.io/PracticeDay1/
