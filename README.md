@@ -1,4 +1,4 @@
-# 🧪 Practice Day 1 – HTML/CSS
+#  Practice Day 1 – HTML/CSS
 
 ## ✨ Overview
 A basic practice project focusing on improving frontend fundamentals and layout skills.
